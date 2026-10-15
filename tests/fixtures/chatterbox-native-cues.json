@@ -1,0 +1,6 @@
+{
+  "source": "https://huggingface.co/onnx-community/chatterbox-ONNX/blob/main/tokenizer.json",
+  "tokenizer_sha256": "ecddf6aaae85e271610a2743409f7e447886957d0b0836687c1eaec5ccac2891",
+  "note": "Small token-name fixture verified against the SHA-256 pinned in scripts/download-model.mjs. It is not a model or full tokenizer.",
+  "tokens": ["[laughter]", "[giggle]", "[sigh]", "[gasp]", "[cough]", "[clear_throat]", "[whisper]"]
+}

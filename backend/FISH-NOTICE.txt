@@ -1,0 +1,13 @@
+Built with Fish Audio
+
+This model is licensed under the Fish Audio Research License, Copyright © 39 AI, INC. All Rights Reserved.
+
+Fish S2 Pro weights: https://huggingface.co/fishaudio/s2-pro
+License: https://huggingface.co/fishaudio/s2-pro/blob/main/LICENSE.md
+MLX conversion: https://huggingface.co/mlx-community/fish-audio-s2-pro-bf16
+MLX-Audio inference runtime (MIT): https://github.com/Blaizzy/mlx-audio
+
+Research and non-commercial personal use are permitted under the model license.
+Commercial use, including business internal use, requires a separate Fish Audio license.
+This application adds a loopback HTTP wrapper; it does not modify the model weights.
+The model license is retained with the downloaded checkpoint as LICENSE.md.

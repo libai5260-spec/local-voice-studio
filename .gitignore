@@ -1,0 +1,56 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnpm-store/
+/public/models/
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/.vinext/
+/out/
+
+# misc
+.DS_Store
+*.pem
+*.tsbuildinfo
+.runtime/
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files (can opt-in for committing if needed)
+.env*
+
+# vercel
+.vercel
+
+/dist/
+/.wrangler/
+/outputs/
+/work/
+__pycache__/
+*.pyc
+
+# Local reference checkout and legacy clips without redistribution records.
+# Keep these on this Mac, but never publish them with the source release.
+/vendor/transformersjs-chatterbox-demo/
+/voice-samples/
+/public/voice-samples/Alba-UK.mp3
+/public/voice-samples/Amy-US.mp3
+/public/voice-samples/HFC-Female-US.mp3
+/public/voice-samples/Jenny-Dioco-UK.mp3
+/public/voice-samples/Kristin-US.mp3

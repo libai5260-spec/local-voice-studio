@@ -1,0 +1,8 @@
+{
+  "name": "sharp",
+  "version": "0.35.0",
+  "type": "module",
+  "main": "index.js",
+  "exports": "./index.js",
+  "private": true
+}
